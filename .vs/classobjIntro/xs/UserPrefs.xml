@@ -1,20 +1,17 @@
 ﻿<Properties StartupConfiguration="{E7036209-29EA-4F12-BE21-2C1722641A4F}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.classobjIntro PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="classobjIntro/Employee.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="classobjIntro/Program.cs">
     <Files>
-      <File FileName="classobjIntro/Program.cs" Line="17" Column="43" />
-      <File FileName="classobjIntro/Employee.cs" Line="13" Column="7" NotebookId="1" IsPinned="True" />
-      <File FileName="classobjIntro/Employee.cs" Line="13" Column="7" NotebookId="1" IsPinned="True" />
+      <File FileName="classobjIntro/User.cs" Line="9" Column="26" />
+      <File FileName="classobjIntro/Program.cs" Line="27" Column="1" />
+      <File FileName="classobjIntro/Employee.cs" Line="20" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="classobjIntro" expanded="True">
-            <Node name="classobjIntro" expanded="True">
-              <Node name="Employee.cs" selected="True" />
-            </Node>
+            <Node name="classobjIntro" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -23,6 +20,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.classobjIntro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
